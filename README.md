@@ -1,6 +1,5 @@
 
 [![Social banner for mobina](datas/12.gif)](datas/12.gif)
-<h1 align='center'> Hi there :wave:</h1>
 <p align='center'>
 
 <!--
