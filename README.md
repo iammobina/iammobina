@@ -1,4 +1,7 @@
-### Hi there 👋
+
+[![Social banner for mobina](datas/mainback.gif)](datas/mainback.gif)
+<h1 align='center'> Hi there :wave:</h1>
+<p align='center'>
 
 <!--
 **iammobina/iammobina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
