@@ -1,5 +1,5 @@
 
-[![Social banner for mobina](datas/mainback.gif)](datas/2.gif)
+[![Social banner for mobina](datas/2.gif)](datas/2.gif)
 <h1 align='center'> Hi there :wave:</h1>
 <p align='center'>
 
