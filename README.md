@@ -2,7 +2,12 @@
 [![Social banner for mobina](datas/5.gif)](datas/5.gif)
 <h1 align='center'>Welcome! :wave:</h1>
 <p align='center'>
-
+  
+- 🔭 I’m currently working on a machine translation project.
+  
+- ✨ I’m interested in Deep Learning , Computer Vision , Natural Language Processing and Machine Learning.
+  
+- 📫  You can reach me via email : mobina.km@gmail.com
 <!--
 **iammobina/iammobina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
