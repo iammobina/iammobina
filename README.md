@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammobina&show_icons=true&locale=en&layout=compact" alt="iammobina" /></p>
-
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="center"> <h4> AI/ML: </h4>
@@ -136,7 +134,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&locale=en" alt="iammobina" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammobina&show_icons=true&locale=en&layout=compact" alt="iammobina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammobina&" alt="iammobina" /></p> -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&locale=en" alt="iammobina" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammobina&" alt="iammobina" /></p>  -->
