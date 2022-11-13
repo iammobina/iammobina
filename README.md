@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [a machine translation project.](https://github.com/iammobina/Machine-Translation)
 
-- ✨ I’m interested incollaborate on **Deep Learning , Computer Vision , Natural Language Processing and Machine Learning.**
+- ✨ I’m interested in **Deep Learning , Computer Vision , Natural Language Processing and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iammobina](https://github.com/iammobina)
 
 <!-- - 📝 I regularly write articles on [https://iammobina.github.io/](https://iammobina.github.io/) -->
 
-- 📫 How to reach me **mobina.km@gmail.com**
+<!-- - 📫 How to reach me **mobina.km@gmail.com** -->
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
