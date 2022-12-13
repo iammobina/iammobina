@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- - 📝 I regularly write articles on [https://iammobina.github.io/](https://iammobina.github.io/) -->
 
-<!-- - 📫 How to reach me **mobina.km@gmail.com** -->
+📫 How to reach me **mobina.km@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
