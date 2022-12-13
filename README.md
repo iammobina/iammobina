@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 - ✨ I’m interested in **Deep Learning , Computer Vision , Natural Language Processing and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iammobina](https://github.com/iammobina)
+- 📫 How to reach me **mobina.km@gmail.com**
 
 <!-- - 📝 I regularly write articles on [https://iammobina.github.io/](https://iammobina.github.io/) -->
 
-📫 How to reach me **mobina.km@gmail.com**
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
