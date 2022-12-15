@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/iammobina](https://github.com/iammobina)
 - 📫 How to reach me **mobina.km@gmail.com**
-
-# 📝 My personal website [https://iammobina.github.io/](https://iammobina.github.io/) -->
+- 📝 My personal website [https://iammobina.github.io/](https://iammobina.github.io/) 
 
 
 
