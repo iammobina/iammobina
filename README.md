@@ -38,13 +38,17 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/iammobina](https://github.com/iammobina)
 - 📫 How to reach me **mobina.km@gmail.com**
 - 📝 My personal website [https://iammobina.github.io/](https://iammobina.github.io/) 
+- 🖋 Connect with me:<a href="https://linkedin.com/in/mobinakashaniyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobinakashaniyan" height="30" width="40" /></a>
 
 
+<h2 align="left">Status: </h2>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/mobinakashaniyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobinakashaniyan" height="30" width="40" /></a>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammobina&show_icons=true&locale=en&layout=compact" alt="iammobina" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&locale=en" alt="iammobina" /></p> 
+
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -136,9 +140,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammobina&show_icons=true&locale=en&layout=compact" alt="iammobina" /></p>
 
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&locale=en" alt="iammobina" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammobina&" alt="iammobina" /></p>  -->
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammobina&" alt="iammobina" /></p>   -->
