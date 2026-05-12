@@ -9,16 +9,19 @@
 </p>
 
 ---
-
 ### About Me
 
-- 👩‍💻 All of my projects are available on [GitHub](https://github.com/iammobina)
+- 👩‍💻 Computer Science Major
 - 🌐 Personal website: [iammobina.github.io](https://iammobina.github.io/)
-- 📫 Email: **mobina.km@gmail.com**
-- 💼 Connect with me on 
-  <a href="https://linkedin.com/in/mobinakashaniyan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mobina Kashaniyan LinkedIn" height="25" width="35" />
-  </a>
+- 💼 LinkedIn: [Mobina Kashaniyan](https://linkedin.com/in/mobinakashaniyan)
+
+---
+
+### Interests
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Data Science` `Research`
+
+---
 
 ---
 
@@ -31,19 +34,3 @@
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&theme=default&hide_border=true" 
-    alt="Mobina's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammobina&layout=compact&theme=default&hide_border=true" 
-    alt="Top languages" 
-  />
-</p>
