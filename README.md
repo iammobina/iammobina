@@ -12,7 +12,6 @@
 ### About Me
 
 - 👩‍💻 Computer Science Major
-- 🌐 Personal website: [iammobina.github.io](https://iammobina.github.io/)
 
 ---
 
