@@ -35,9 +35,15 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&locale=en&cache_seconds=1800" alt="Mobina GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=iammobina&show_icons=true&theme=default&hide_border=true" 
+    alt="Mobina's GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammobina&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="Top languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammobina&layout=compact&theme=default&hide_border=true" 
+    alt="Top languages" 
+  />
 </p>
