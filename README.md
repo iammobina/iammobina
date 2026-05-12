@@ -23,8 +23,6 @@
 
 ---
 
----
-
 ### GitHub Highlights
 
 <p align="center">
